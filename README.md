@@ -3,10 +3,11 @@ Mods for the Game Face Trion.
 
 ## Description
 
-This repository is a collection of mods for the Game Face Trion blaster:
+### This repository is a collection of mods for the Game Face Trion blaster:
+
 - **Spacers**
 - - 3 sizes. 1x is a 1:1 copy of the included Trion spacer. 2x is the length of the two spacers included. 2.75x is the maximum extra length that the blaster can fit.
-
+<img src="GHimages/Trion%20spacers.png" width="500">
 
 - **Flared Magwell**
 - - WIP
@@ -20,6 +21,10 @@ This repository is a collection of mods for the Game Face Trion blaster:
 
 - **Improved Mag Release**
 - - WIP
+
+
+<img src="GHimages/Silly%20got%20his%20Trion.png" width="500">
+<img src="GHimages/Willis%20Trion%20on%20Dart%20Zone%20Stream%20Cropped.jpg" width="500">
 
 ## Misc.
 
@@ -50,4 +55,6 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/SLAB%204%20v172%203.png" width="500">
+<img src="GHimages/Silly%20got%20his%20Trion.png" width="500">
+<img src="GHimages/Trion%20spacers.png" width="500">
+<img src="GHimages/Willis%20Trion%20on%20Dart%20Zone%20Stream%20Cropped.jpg" width="500">
