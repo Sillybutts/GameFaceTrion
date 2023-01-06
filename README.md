@@ -6,7 +6,11 @@ Mods for the Game Face Trion.
 ### This repository is a collection of mods for the Game Face Trion blaster:
 
 - **Spacers**
-- - 3 sizes. 1x is a 1:1 copy of the included Trion spacer. 2x is the length of the two spacers included. 2.75x is the maximum extra length that the blaster can fit.
+- - 3 sizes. 
+- - 1x is a 1:1 copy of the included Trion spacer. 
+- - 2x is the length of the two spacers included. 
+- - 2.75x is the maximum extra length that the blaster can fit. Spring might take a set/be damaged over time with this spacer.
+
 <img src="GHimages/Trion%20spacers.png" width="500">
 
 - **Flared Magwell**
