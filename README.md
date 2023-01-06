@@ -6,12 +6,18 @@ Mods for the Game Face Trion.
 This repository is a collection of mods for the Game Face Trion blaster:
 - Spacers
 - - 3 sizes. 1x is a 1:1 copy of the included Trion spacer. 2x is the length of the two spacers included. 2.75x is the maximum extra length that the blaster can fit.
+
+
 - Flared Magwell
 - - WIP
+
+
 - New Muzzle
 - - WIP SCAR
 - - WIP replacement for longer barrel
 - - WIP quick swap barrel collet
+
+
 - Improved Mag Release
 - - WIP
 
