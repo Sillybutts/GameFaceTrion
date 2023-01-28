@@ -20,7 +20,7 @@ Mods for the Game Face Trion.
 
 - **New Muzzles & SCARs**
 - - SCAR Lookalike Muzzle https://www.youtube.com/watch?v=KT8aSmv8EyI
-- - MegaXL Spigot SCAR 
+- - MegaXL Spigot SCAR (THIS WILL LAUNCH MEGA XL BETTER IF YOU PUT AN 016 O-RING BETWEEN THE ATTACHMENT AND THE ATTACHMENT LUG ON THE BLASTER)
 - - SCAR inserts for default included Trion muzzle https://www.youtube.com/watch?v=wa9wTFDM8aU
 - - SillyCollet quick barrel swap muzzle (by Chance)
 - - Print all of these muzzle things with supports. Preferably tree supports, only touching buildplate. Might need a brim with the SCARs. 
