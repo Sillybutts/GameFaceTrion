@@ -25,7 +25,8 @@ Mods for the Game Face Trion.
 - - SillyCollet quick barrel swap muzzle (by Chance)
 
 <img src="GHimages/Trion%20Muzzle%20Attachments%20v13.png" width="500">
-
+<img src="GHimages/printedscar.PNG" width="500">
+<img src="GHimages/Trion%20Collet%20Muzzle.jpg" width="500">
 
 - **Improved Mag Release**
 - - WIP
