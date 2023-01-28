@@ -10,6 +10,7 @@ Mods for the Game Face Trion.
 - - 1x is a 1:1 copy of the included Trion spacer. 
 - - 2x is the length of the two spacers included. 
 - - 2.75x is the maximum extra length that the blaster can fit. Spring might take a set/be damaged over time with this spacer.
+- - https://www.youtube.com/watch?v=uZAEKnahiVE
 
 <img src="GHimages/Trion%20spacers.png" width="500">
 
@@ -17,10 +18,13 @@ Mods for the Game Face Trion.
 - - WIP
 
 
-- **New Muzzle**
-- - WIP SCAR
-- - WIP replacement for longer barrel
-- - WIP quick swap barrel collet
+- **New Muzzles & SCARs**
+- - SCAR Lookalike Muzzle https://www.youtube.com/watch?v=KT8aSmv8EyI
+- - MegaXL Spigot SCAR 
+- - SCAR inserts for default included Trion muzzle https://www.youtube.com/watch?v=wa9wTFDM8aU
+- - SillyCollet quick barrel swap muzzle (by Chance)
+
+<img src="GHimages/Trion%20Muzzle%20Attachments%20v13.png" width="500">
 
 
 - **Improved Mag Release**
