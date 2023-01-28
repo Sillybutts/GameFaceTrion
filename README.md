@@ -23,6 +23,7 @@ Mods for the Game Face Trion.
 - - MegaXL Spigot SCAR 
 - - SCAR inserts for default included Trion muzzle https://www.youtube.com/watch?v=wa9wTFDM8aU
 - - SillyCollet quick barrel swap muzzle (by Chance)
+- - Print all of these muzzle things with supports. Preferably tree supports, only touching buildplate. Might need a brim with the SCARs. 
 
 <img src="GHimages/Trion%20Muzzle%20Attachments%20v13.png" width="500">
 <img src="GHimages/printedscar.PNG" width="500">
