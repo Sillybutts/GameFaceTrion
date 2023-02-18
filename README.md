@@ -21,7 +21,7 @@ Mods for the Game Face Trion.
 - - MLOK slot mounted
 
 <img src="GHimages/buffer%20tube%20spacer%20holder.PNG" width="300">
-<img src="GHimages/mlok%20spacer%20holder.PNG" width="300">
+<img src="GHimages/mlok2.PNG" width="300">
 <img src="GHimages/picatinny%20spacer%20holder.PNG" width="300">
 
 - **Flared Magwell**
