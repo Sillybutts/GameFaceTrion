@@ -10,5 +10,5 @@ Video overviews for each type:
 - MLOK: https://www.youtube.com/watch?v=Of9Gyap_H0w
 
 <img src="GHimages/buffer%20tube%20spacer%20holder.PNG" width="300">
-<img src="GHimages/mlok%20spacer%20holder.PNG" width="300">
+<img src="GHimages/mlok2.PNG" width="300">
 <img src="GHimages/picatinny%20spacer%20holder.PNG" width="300">
