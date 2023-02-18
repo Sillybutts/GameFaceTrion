@@ -14,6 +14,12 @@ Mods for the Game Face Trion.
 
 <img src="GHimages/Trion%20spacers.png" width="500">
 
+- **Spacer Holders**
+- - 3 types
+- - Picatinny mounted
+- - Buffer tube mounted
+- - MLOK slot mounted
+
 - **Flared Magwell**
 - - WIP
 
