@@ -20,6 +20,10 @@ Mods for the Game Face Trion.
 - - Buffer tube mounted
 - - MLOK slot mounted
 
+<img src="GHimages/buffer%20tube%20spacer%20holder.PNG" width="500">
+<img src="GHimages/mlok%20spacer%20holder.PNG" width="500">
+<img src="GHimages/picatinny%20spacer%20holder.PNG" width="500">
+
 - **Flared Magwell**
 - - WIP
 
