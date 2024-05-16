@@ -1,6 +1,14 @@
 # GameFaceTrion
 Mods for the Game Face Trion.
 
+<a href="https://www.printables.com/model/875797-game-face-trion-scars"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES 
+
+https://www.printables.com/model/875797-game-face-trion-scars
+
+https://www.printables.com/model/874042-game-face-trion-spring-spacers-and-holders
+
 ## Description
 
 ### This repository is a collection of mods for the Game Face Trion blaster:
